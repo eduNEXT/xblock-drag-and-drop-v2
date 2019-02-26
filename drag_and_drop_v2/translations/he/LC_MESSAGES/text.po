@@ -230,7 +230,7 @@ msgstr "נותרו עדיים נסיונות"
 
 #: drag_and_drop_v2.py
 msgid "Unknown DnDv2 mode {mode} - course is misconfigured"
-msgstr "מצב DnDv2 לא ידוע {מצב} - הקורס אינו מוגדר"
+msgstr "מצב DnDv2 לא ידוע {mode} - הקורס אינו מוגדר"
 
 #: templates/html/js_templates.html
 msgid "Remove zone"

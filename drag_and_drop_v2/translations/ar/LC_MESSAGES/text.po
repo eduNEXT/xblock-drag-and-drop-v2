@@ -233,7 +233,7 @@ msgstr ""
 
 #: drag_and_drop_v2.py
 msgid "Unknown DnDv2 mode {mode} - course is misconfigured"
-msgstr "وضع DnDv2 غير معروف {وضع} - خطأ في تكوين الدورة"
+msgstr "وضع DnDv2 غير معروف {mode} - خطأ في تكوين الدورة"
 
 #: templates/html/js_templates.html
 msgid "Remove zone"
